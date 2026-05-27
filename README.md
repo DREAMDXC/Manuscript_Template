@@ -3,7 +3,7 @@
 
 ## 📘 论文写作母版
 
-<img src="Teacher-Students.jpg" style="zoom:33%;" />
+<img src="Teacher-Students.jpg" style="zoom:10%;" />
 
 ---
 
