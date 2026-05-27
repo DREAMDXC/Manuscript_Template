@@ -3,7 +3,7 @@
 
 ## 📘 论文写作母版
 
-<img src="Teacher-Students.jpg" width="400px";" />
+<img src="Teacher-Students.jpg" width="400px">
 
 ---
 
